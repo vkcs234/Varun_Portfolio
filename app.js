@@ -116,7 +116,7 @@ function updateActiveNavLink() {
 
 // Typing Animation
 function startTypingAnimation() {
-    const phrases = ['CSE Student', 'Java Developer', 'Problem Solver', 'IoT Enthusiast'];
+    const phrases = ['Java Developer'];
     let phraseIndex = 0;
     let charIndex = 0;
     let isDeleting = false;
